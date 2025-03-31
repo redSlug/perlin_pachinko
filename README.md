@@ -1,5 +1,7 @@
 # perlin pachinko
 
+[Check it out!](https://redslug.github.io/perlin_pachinko/)
+
 ![fish_screenshot.png](fish_screenshot.png)
 
 ## Run locally
